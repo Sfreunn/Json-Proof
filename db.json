@@ -1,0 +1,20 @@
+{
+   "1": {
+      "nombre": "Agua Saborizada 500ml",
+      "precio_x1": 100,
+      "precio_x2": 180,
+      "precio_x3": 250
+   },
+   "2": {
+      "nombre": "Pancho",
+      "precio_x1": 100,
+      "precio_x2": null,
+      "precio_x3": null
+   },
+   "3": {
+      "nombre": "Choripán",
+      "precio_x1": 100,
+      "precio_x2": 150,
+      "precio_x3": 200
+   }
+}
